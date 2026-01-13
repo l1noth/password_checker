@@ -45,18 +45,21 @@ It allows you to check a list of passwords against a weak password dictionary, i
 ## 📁 Project Structure
 
 weak-password-checker-gui/
-├─ app.py           # Main GUI application
-├─ analyzer.py      # Password analysis logic
-├─ loader.py        # File loader utility
+├─ app.py # Main GUI application
+├─ modules
+│ ├─ __init__.py # python init
+│ ├─ analyzer.py # Password analysis logic
+│ └─ loader.py # File loader utility
 ├─ data/
-│   └─ weak.txt     # Default weak password dictionary
-├─ passwords.txt    # Example file with passwords to check
+│ └─ weak.txt # Default weak password dictionary
+├─ passwords.txt # Example file with passwords to check
 ├─ README.md
 └─ requirements.txt
 
 ---
 
 ## 💻 How to Run
+
 ### 1️⃣ Run via source code (Python required)
 
 1.  Make sure you have Python 3 installed  
