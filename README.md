@@ -44,15 +44,15 @@ It allows you to check a list of passwords against a weak password dictionary, i
 
 ## 📁 Project Structure
 
-###weak_password_checker/
-├─ app.py # Main GUI application
-├─ analyzer.py # Password analysis logic
-├─ loader.py # File loader utility
-├─ data/
-│ └─ weak.txt # Default weak password dictionary
-├─ passwords.txt # Example file with passwords to check
-├─ README.md
-└─ requirements.txt
+-weak_password_checker/
+-├─ app.py # Main GUI application
+-├─ analyzer.py # Password analysis logic
+-├─ loader.py # File loader utility
+-├─ data/
+-│ └─ weak.txt # Default weak password dictionary
+-├─ passwords.txt # Example file with passwords to check
+-├─ README.md
+-└─ requirements.txt
 
 ---
 
