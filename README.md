@@ -7,7 +7,8 @@ It allows you to check a list of passwords against a weak password dictionary, i
 
 ## 📸 Screenshot
 
-![Screenshot](https://ibb.co.com/0pT6cZRX)
+![Weak Password Checker GUI](https://i.ibb.co.com/nq9YbfN0/photo-2026-01-13-21-48-35.jpg)
+
 
 ---
 
