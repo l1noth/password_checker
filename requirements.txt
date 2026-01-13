@@ -1,0 +1,3 @@
+# requirements.txt
+# Minimal dependencies for Weak Password Checker GUI
+Python >= 3.8 (Tkinter, os, string)
