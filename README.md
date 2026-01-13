@@ -5,6 +5,12 @@ It allows you to check a list of passwords against a weak password dictionary, i
 
 ---
 
+## 📸 Screenshot
+
+![Screenshot](https://ibb.co.com/0pT6cZRX)
+
+---
+
 ## 🛠 Features
 
 - ✅ Load passwords from a file (`passwords.txt`)
@@ -37,7 +43,7 @@ It allows you to check a list of passwords against a weak password dictionary, i
 
 ## 📁 Project Structure
 
-weak-password-checker-gui/
+###weak_password_checker/
 ├─ app.py # Main GUI application
 ├─ analyzer.py # Password analysis logic
 ├─ loader.py # File loader utility
@@ -50,7 +56,6 @@ weak-password-checker-gui/
 ---
 
 ## 💻 How to Run
-
 ### 1️⃣ Run via source code (Python required)
 
 1.  Make sure you have Python 3 installed  
